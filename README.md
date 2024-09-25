@@ -1,4 +1,3 @@
-# !Hola¡ soy Jonathan Vera <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 # !Hola¡ soy Jonathan Vera 👋
 ### Estoy iniciando en el mundo del programador o desarrollador de paginas web, busco aprender, mejorar y pulir mis habilidades.
 
