@@ -1,5 +1,8 @@
 <h1>!Hello¡ I'm Jonathan Vera 👋</h1>
 
+# Soy Desarrollador de programas Web
+---
+
 🌱
   👯 
     🤔
