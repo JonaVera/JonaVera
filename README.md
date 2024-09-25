@@ -6,6 +6,7 @@
 <code><img height="300" src="https://camo.githubusercontent.com/a9018229e78d674348171929c4fd61ae0f248e84c8027e3b96f4cbe0178fb1c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"></code>
 </p>
 
+<hr>   
 <h3>Sobre mi 🤵 :</h3>
 Soy Jonathan Vera, vivo en Santiago de Chile, soy Ingeniero en Automatización de procesos. Me dedico a desarrollar diferentes lenguajes de programación para controladores, estoy iniciando el desarrollo de paginas web tanto el Backend y Frondend.
 Estudie la Universidad Tecnologica de Chile, realice un curso de programación avanzada en ladder y estoy cursando un curso de desarrollador full stack en python.
