@@ -4,16 +4,13 @@
 
 ### Sobre mi 🤵 :
 #### ¿Quién eres?
-Soy Jonathan Vera, estudie Ingeniería en Automatización de procesos. Soy desarrollador de diferentes lenguajes de programación.
-#### ¿De dónde eres? 
-Vivo en Santiago de Chile
+Soy Jonathan Vera, vivo en Santiago de Chile, estudie Ingeniería en Automatización de procesos. Soy desarrollador de diferentes lenguajes de programación.
 #### ¿A qué te dedicas?
 Soy Ingeniero en Automatización, desarrollo programas para controladores y paginas web tanto el Backend y Frondend.
 #### ¿Cuál es tu formación?
 Ingeniero en Automatización de procesos, Desarrollador de programas para controladores, desarrollador de paginas web pyhton.
 #### ¿Cuáles son tus experiencias previas? y en caso de que no tengas ¿por qué deberían contactarte?
 Cuento con experiencia de un curso para desarrolo de paginas web y estoy interesado en incorporarme en el mundo de los desarroladores de paginas web.
-#### ¿Cómo y a través de qué medios te pueden contactar?
 
 <!-- CONNECTION -->
 <hr>      
