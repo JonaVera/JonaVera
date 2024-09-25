@@ -1,5 +1,4 @@
 # !Hola¡ soy Jonathan Vera 👋
-<!-- CONNECTION -->
 ### Estoy iniciando en el mundo del programador o desarrollador de paginas web, busco aprender, mejorar y pulir mis habilidades.
 
 ### Sobre mi 🤵 :
