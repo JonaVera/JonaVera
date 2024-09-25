@@ -1,8 +1,5 @@
-<div align= "center" width="50 div>
-  <div/>
-<h1>!Hello¡ I'm Jonathan Vera</h1>
+<h1>!Hello¡ I'm Jonathan Vera 👋</h1>
 
-### Holi 👋🔭 
 🌱
   👯 
     🤔
