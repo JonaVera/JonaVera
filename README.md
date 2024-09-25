@@ -4,7 +4,8 @@
 
 ### Sobre mi 🤵 :
 #### ¿Quién eres?
-Soy Jonathan Vera, estudie Ingeniería en Automatización de procesos. Soy desarrollador de diferentes lenguajes de programación.
+Soy Jonathan Vera, estudie Ingeniería en Automatización de procesos. 
+Soy desarrollador de diferentes lenguajes de programación.
 #### ¿De dónde eres? 
 Vivo en Santiago de Chile
 #### ¿A qué te dedicas?
