@@ -1,4 +1,6 @@
+
 <h1>!Hola¡ soy Jonathan Vera 👋</h1>
+<hr>  
 
 <h2>Estoy iniciando en el mundo del programador o desarrollador de paginas web, busco aprender, mejorar y pulir mis habilidades.</h2>
 
