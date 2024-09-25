@@ -6,10 +6,23 @@
 </p>
 
 <h3>Sobre mi 🤵 :</h3>
-Soy Jonathan Vera, vivo en Santiago de Chile, estudie Ingeniería en Automatización de procesos. Soy desarrollador de diferentes lenguajes de programación.
-Soy Ingeniero en Automatización, desarrollo programas para controladores y paginas web tanto el Backend y Frondend.
-Estudie Ingeniería en Automatización de procesos, Desarrollador de programas para controladores, desarrollador de paginas web pyhton.
+- ¿Quién eres? 
+
+¿A qué te dedicas? 
+•	 ¿Cuál es tu formación? 
+•	¿Cuáles son tus experiencias previas? y en caso de que no tengas ¿por qué deberían contactarte? 
+•	¿Cómo y a través de qué medios te pueden contactar? 
+
+Soy Jonathan Vera, vivo en Santiago de Chile, soy Ingeniero en Automatización de procesos. Me dedico a desarrollar diferentes lenguajes de programación para controladores, estoy iniciando el desarrollo de paginas web tanto el Backend y Frodend.
+Estudie la Universidad Tecnologica de Chile, realiza un curso de Programacion avanzada en ladder y estoy cursando un curso de desarrollador full stack en python.
 Cuento con experiencia de un curso para desarrolo de paginas web y estoy interesado en incorporarme en el mundo de los desarroladores de paginas web.
+
+<h3 align="center">Contáctame:</h3>
+<p align="center">
+  <a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com" height="30" width="40" /></a>
+   <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com" height="30" width="40" /></a>
+  <a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com" height="30" width="40" /></a>
+</p>
 
 <hr>   
 <h3 align="center">Lenguajes y herramientas:</h3>
@@ -20,10 +33,3 @@ Cuento con experiencia de un curso para desarrolo de paginas web y estoy interes
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
 <hr> 
-
-<h3 align="center">Contáctame:</h3>
-<p align="center">
-  <a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com" height="30" width="40" /></a>
-   <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com" height="30" width="40" /></a>
-  <a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com" height="30" width="40" /></a>
-</p>
