@@ -3,8 +3,8 @@
 ### Estoy iniciando en el mundo del programador o desarrollador de paginas web, busco aprender, mejorar y pulir mis habilidades.
 
 ### Sobre mi 🤵 :
-- ¿Quién eres?
-Soy Jonathan Vera, tengo 27 años, estudie Ingenieria en Automatizacion de procesos. Soy desarrollador de diferentes lenguajes de programación.
+#### ¿Quién eres?
+Soy Jonathan Vera, estudie Ingeniería en Automatización de procesos. Soy desarrollador de diferentes lenguajes de programación.
 - ¿De dónde eres? 
 Vivo en Santiago de Chile
 ¿A qué te dedicas?
