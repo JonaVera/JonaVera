@@ -23,8 +23,8 @@ Cuento con experiencia de un curso para desarrolo de paginas web y estoy interes
 <h3 align="center">Contáctame:</h3>
 <p align="center">
   <a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com" height="30" width="40" /></a>
-  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
-  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+  <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com alt="" height="30" width="40" /></a>
+  <a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com" alt="josue_rojasv" height="30" width="40" /></a>
 </p>
 
 
