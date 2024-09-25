@@ -2,9 +2,9 @@
 
 ### Estoy iniciando en el mundo del programador o desarrollador de paginas web, busco aprender, mejorar y pulir mis habilidades.
 
-### 🤵 About Me:
+### Sobre mi 🤵 :
 - ¿Quién eres?
-Soy Jonathan Vera, tengo 27 años, estudie Ingenieria en Automatizacion de procesos. Soy programado de diferentes lenguajes como ladder, diagrama de bloques, texto estucturado, python, Django, desarrollo de Backend y Frondend. Me considero una persona autonoma que me gustan los desafios personales.
+Soy Jonathan Vera, tengo 27 años, estudie Ingenieria en Automatizacion de procesos. Soy desarrollador de diferentes lenguajes de programación.
 - ¿De dónde eres? 
 Vivo en Santiago de Chile
 ¿A qué te dedicas?
@@ -14,5 +14,5 @@ Ingeniero en Automatización de procesos, Desarrollador de programas para contro
 - ¿Cuáles son tus experiencias previas? y en caso de que no tengas ¿por qué deberían contactarte?
 Desarrollo programas para controladores de procesos industriales para purificadores de agua.
 Cuento con experiencia de un curso para desarrolo de paginas web y estoy interesado en incorporarme en el mundo de los desarroladores de paginas web.
-•	¿Cómo y a través de qué medios te pueden contactar?
+- ¿Cómo y a través de qué medios te pueden contactar?
 
