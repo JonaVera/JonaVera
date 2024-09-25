@@ -1,6 +1,6 @@
-<h1>!Hello¡ I'm Jonathan Vera 👋</h1>
+# !Hello¡ I'm Jonathan Vera 👋
 
-# Soy Desarrollador de programas Web
+## Soy Desarrollador de programas Web
 ---
 
 🌱
