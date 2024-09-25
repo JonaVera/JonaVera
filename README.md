@@ -1,4 +1,7 @@
-<h1>!Hello, Im Jonathan Vera¡</h1>
+<div aling= "center" width="50 div>
+  <div/>
+<h1>!Hello¡ I'm Jonathan Vera</h1>
+
 ### Holi 👋🔭 
 🌱
   👯 
