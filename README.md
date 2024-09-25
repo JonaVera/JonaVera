@@ -1,4 +1,9 @@
 # !Hola¡ soy Jonathan Vera 👋
+
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+
 ### Estoy iniciando en el mundo del programador o desarrollador de paginas web, busco aprender, mejorar y pulir mis habilidades.
 
 
