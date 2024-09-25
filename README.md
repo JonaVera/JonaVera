@@ -1,7 +1,7 @@
 # !Hello¡ I'm Jonathan Vera 👋
 
-## Soy Desarrollador de programas Web
----
+## Estoy iniciando en el mundo de programador o desarrollador de paginas web, busco aprender, mejorar y pulir mis habilidades.
+
 
 🌱
   👯 
