@@ -15,8 +15,7 @@ Cuento con experiencia para el desarrollo de paginas web y estoy interesado en i
 <h3 align="center">Contáctame:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-vera-araya-b6b73826a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com" height="30" width="40" /></a>
-   <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com" height="30" width="40" /></a>
-  <a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com" height="30" width="40" /></a>
+
 </p>
 
 <hr>   
